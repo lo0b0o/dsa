@@ -1,2 +1,2 @@
 - [High-precision addition](https://github.com/lo0b0o/dsa/tree/main/lg1601)
-- High-precision subtraction
+- [High-precision subtraction](https://github.com/lo0b0o/dsa/tree/main/lg2142)
